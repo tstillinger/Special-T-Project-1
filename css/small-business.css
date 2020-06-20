@@ -1,0 +1,52 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  background-color: rgb(158, 136, 123);
+}
+
+.font-weight-light {
+  font-weight: 300;
+  color: white;
+  
+}
+
+.m-0 {
+  color: black;
+  font-size: larger;
+ 
+}
+
+.navbar-dark {
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: .25rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;   
+  color: rgb(158, 136, 123);
+  }
+.navbar-brand{
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: rgb(158, 136, 123) !important;
+  text-shadow: 3px 3px 5px #555;
+  margin-left: 10px
+  
+}
+  .nav-link {
+    color: rgb(158, 136, 123);
+  }
+
+  .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+  }
